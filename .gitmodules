@@ -1,0 +1,3 @@
+[submodule "lecture2gether"]
+	path = lecture2gether
+	url = https://github.com/TheNerdful8/Lecture2Gether.git
